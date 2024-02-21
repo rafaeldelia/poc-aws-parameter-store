@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "aws.secretsmanager.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretsmanager.enabled'"
+  },
+  {
+    "name": "cloud.aws.region.static",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.region.static'"
+  },
+  {
+    "name": "aws.paramstore.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.paramstore.endpoint'"
+  },
+  {
+    "name": "aws.secretsmanager.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretsmanager.endpoint'"
+  },
+  {
+    "name": "cloud.aws.s3.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.s3.endpoint'"
+  },
+  {
+    "name": "cloud.aws.sqs.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.sqs.endpoint'"
+  },
+  {
+    "name": "cloud.aws.sns.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.sns.endpoint'"
+  },
+  {
+    "name": "spring.application.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.port'"
+  },
+  {
+    "name": "spring.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.port'"
+  },
+  {
+    "name": "helloWorld",
+    "type": "java.lang.String",
+    "description": "A description for 'helloWorld'"
+  }
+]}
